@@ -4,7 +4,7 @@
 		
         <meta charset="utf-8" />
         <title>Enregistrement Simplon</title>
-				<link rel="stylesheet" href="css/bootstrap.css">
+				<link rel="stylesheet" href="bootstrap.css">
 		
     </head>
 	
