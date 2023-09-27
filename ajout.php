@@ -30,7 +30,7 @@
 	 ?>
 
 	<meta charset="utf-8" />
-	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="bootstrap.css">
 	
 	<nav class="navbar navbar-light bg-light">
     		<div class="navbar-inner">
